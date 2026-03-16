@@ -10,9 +10,9 @@ Security is a top priority for us. We are committed to transparency and maintain
 
 Below is the list of our completed smart contract audits. This table will be continuously updated as new audits are finalized.
 
-| Project | Auditor | Version | Report Link |
-| :--- | :--- | :--- | :--- |
-| **EdgeX** | Halborn | V2 | [`report-halborn-edgex-v2.pdf`](./report-halborn-edgex-v2.pdf) |
-| **EdgeX** | Spearbit | V2 | [`report-spearbit-edgex-v2.pdf`](./report-spearbit-edgex-v2.pdf) |
+| Project | Auditor | Report Link |
+| :--- | :--- | :--- |
+| **EdgeX V2** | Halborn | [`report-halborn-edgex-v2.pdf`](./report-halborn-edgex-v2.pdf) |
+| **EdgeX V2** | Spearbit | [`report-spearbit-edgex-v2.pdf`](./report-spearbit-edgex-v2.pdf) |
 
 *(Note: Click on the links above to view the full PDF reports.)*
