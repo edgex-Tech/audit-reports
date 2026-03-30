@@ -12,6 +12,8 @@ Below is the list of our completed smart contract audits. This table will be con
 
 | Project | Auditor | Report Link |
 | :--- | :--- | :--- |
+| **EdgeX V1** | RigSec | [`report-rigsec-edgex-v1.pdf`](./report-rigsec-edgex-v1.pdf) |
+| **EdgeX V1** | SlowMist | [`report-slowmist-edgex-v1.pdf`](./report-slowmist-edgex-v1.pdf) |
 | **EdgeX V2** | Halborn | [`report-halborn-edgex-v2.pdf`](./report-halborn-edgex-v2.pdf) |
 | **EdgeX V2** | Spearbit | [`report-spearbit-edgex-v2.pdf`](./report-spearbit-edgex-v2.pdf) |
 | **EdgeToken** | SlowMist | [`report-slowmist-edgetoken.pdf`](./report-slowmist-edgetoken.pdf) |
