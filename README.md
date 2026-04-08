@@ -16,7 +16,7 @@ Below is the list of our completed smart contract audits. This table will be con
 | **EdgeX V1** | SlowMist | [`report-slowmist-edgex-v1.pdf`](./report-slowmist-edgex-v1.pdf) |
 | **EdgeX V2** | Halborn | [`report-halborn-edgex-v2.pdf`](./report-halborn-edgex-v2.pdf) |
 | **EdgeX V2** | Spearbit | [`report-spearbit-edgex-v2.pdf`](./report-spearbit-edgex-v2.pdf) |
-| **EdgeX Core Vaults and CCTP Integrations** | Spearbit | [`report-binenet-vault-cctp-integration.pdf`](./report-binenet-vault-cctp-integration.pdf) |
+| **EdgeX Core Vaults and CCTP Integrations** | Binenet | [`report-binenet-vault-cctp-integration.pdf`](./report-binenet-vault-cctp-integration.pdf) |
 | **EdgeToken** | SlowMist | [`report-slowmist-edgetoken.pdf`](./report-slowmist-edgetoken.pdf) |
 | **EdgeDistributor** | SlowMist | [`report-slowmist-edgedistributor.pdf`](./report-slowmist-edgedistributor.pdf) |
 
